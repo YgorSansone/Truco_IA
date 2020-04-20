@@ -1,2 +1,2 @@
 # Truco_IA
-##java
+##Algoritmo MiniMax
