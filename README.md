@@ -1,0 +1,1 @@
+# Truco_IA
