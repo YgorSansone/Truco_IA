@@ -1,2 +1,2 @@
 # Truco_IA
-##Algoritmo MiniMax
+## Algoritmo MiniMax
